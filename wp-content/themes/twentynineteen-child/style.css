@@ -1,0 +1,33 @@
+/*Theme Name:     Big Sixteen
+Description:    Twentynineteen child theme.
+Author:         Craig Morris
+Template:       twentynineteen
+Version:        0.0.1*/
+body {
+   background-color: #7CACBF;
+}
+h2.entry-title {
+   color: #ffffff
+}
+div.entry-content:hover {
+   font-size: 125%;
+   transition: 1s;
+}
+.site-header {
+   padding-top: 0;
+}
+.entry .entry-footer a {
+   color: yellow;
+}
+.entry .entry-footer a:hover {
+   font-size: 125%;
+   transition: 2s;
+}
+.widget_search .search-submit {
+   border-radius: 33%;
+}
+#colophon .site-info {
+   color: red;
+   padding-bottom: 1em;
+   margin-bottom: 0;
+}
